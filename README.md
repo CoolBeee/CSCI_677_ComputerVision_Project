@@ -21,8 +21,7 @@ Intersection over Union (IoU)
 <image width="50%" src="https://github.com/user-attachments/assets/56b51c52-1d0e-4719-9a7d-90c8a3adee34"> </image>
 
 # Example of the system in action
-<video src="https://github.com/user-attachments/assets/ae01c94d-b8f0-47ef-9489-30693c51e2cf"> </video>
-
+<video src="https://github.com/user-attachments/assets/bb4137ec-0927-4cac-9027-4585c108ea7e"> </video>
 
 
 
