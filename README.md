@@ -6,7 +6,8 @@
 
 # Methods
 YoloV11
-- Used for object detection and bounding box generation
+- YOLOv11 offers enhanced accuracy, faster inference speeds, and broader applicability across various computer vision tasks, making it a highly efficient and versatile choice for object detection.
+- That is why it is used for the system's initial object detection and bounding box generation.
 
 KalmanFilter
 - Used to estimate a state, comprised of a position and velocity, using predictions and measurements.
@@ -15,7 +16,7 @@ KalmanFilter
 <image width="25%" src ="https://github.com/user-attachments/assets/72dc0de1-bd01-4a18-89bf-52645d798a7e"></image>
 
 Intersection over Union (IoU)
-- Used to link object detections when objects reappear after occlusion by assigning the best available matches based on the Intersection over Union
+- Used to link object detections when the objects reappear after occlusion by assigning the best available matches based on the Intersection over Union.
 - This algorithm allows us to see the spatial overlap between two bounding boxes over a adjustable threshold, the predicted bounding box and current detection bounding box area.
 
 <image width="50%" src="https://github.com/user-attachments/assets/56b51c52-1d0e-4719-9a7d-90c8a3adee34"> </image>
