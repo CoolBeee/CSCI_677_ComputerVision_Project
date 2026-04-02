@@ -2,7 +2,7 @@
 - Showcase of the work I did for my CSCI677 - Computer Vision course at USC
 
 # Motivation
-- Explore how to build a detection system that remains reliable in situtations in which objects become slightly or fully occluded. Specifically in critical applications like self-driving cars. For example, if a pedestrian walks behind a parked car, the system still needs to reason about their continued presence and future location, even if they're not directly visible; in the case they suddenly reappear. 
+- Explore how to build a detection system that remains reliable in situations in which objects become slightly or fully occluded. Specifically in critical applications like self-driving cars. For example, if a pedestrian walks behind a parked car, the system still needs to reason about their continued presence and future location, even if they're not directly visible; in the case they suddenly reappear. 
 
 # Methods
 YoloV11
